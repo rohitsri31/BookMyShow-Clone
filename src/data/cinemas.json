@@ -1,0 +1,2622 @@
+[
+  {
+    "id": "mumbai-1",
+    "name": "MetroPlex Juhu",
+    "city": "Mumbai",
+    "area": "Juhu",
+    "address": "Juhu, Mumbai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "mumbai-2",
+    "name": "CineVista Lower Parel",
+    "city": "Mumbai",
+    "area": "Lower Parel",
+    "address": "Lower Parel, Mumbai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "mumbai-3",
+    "name": "PVR Icon Andheri West",
+    "city": "Mumbai",
+    "area": "Andheri West",
+    "address": "Andheri West, Mumbai",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "mumbai-4",
+    "name": "INOX Megaplex Bandra",
+    "city": "Mumbai",
+    "area": "Bandra",
+    "address": "Bandra, Mumbai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "mumbai-5",
+    "name": "CineSquare Goregaon",
+    "city": "Mumbai",
+    "area": "Goregaon",
+    "address": "Goregaon, Mumbai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "mumbai-6",
+    "name": "MovieHouse Thane",
+    "city": "Mumbai",
+    "area": "Thane",
+    "address": "Thane, Mumbai",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "mumbai-7",
+    "name": "Vista Cinemas Powai",
+    "city": "Mumbai",
+    "area": "Powai",
+    "address": "Powai, Mumbai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "mumbai-8",
+    "name": "SilverScreen Navi Mumbai",
+    "city": "Mumbai",
+    "area": "Navi Mumbai",
+    "address": "Navi Mumbai, Mumbai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "delhi-ncr-1",
+    "name": "INOX Megaplex Saket",
+    "city": "Delhi-NCR",
+    "area": "Saket",
+    "address": "Saket, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "delhi-ncr-2",
+    "name": "CineSquare Noida Sector 18",
+    "city": "Delhi-NCR",
+    "area": "Noida Sector 18",
+    "address": "Noida Sector 18, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "delhi-ncr-3",
+    "name": "MovieHouse Gurugram",
+    "city": "Delhi-NCR",
+    "area": "Gurugram",
+    "address": "Gurugram, Delhi-NCR",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "delhi-ncr-4",
+    "name": "Vista Cinemas Dwarka",
+    "city": "Delhi-NCR",
+    "area": "Dwarka",
+    "address": "Dwarka, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "delhi-ncr-5",
+    "name": "SilverScreen Rajouri Garden",
+    "city": "Delhi-NCR",
+    "area": "Rajouri Garden",
+    "address": "Rajouri Garden, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "delhi-ncr-6",
+    "name": "MetroPlex Vasant Kunj",
+    "city": "Delhi-NCR",
+    "area": "Vasant Kunj",
+    "address": "Vasant Kunj, Delhi-NCR",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "delhi-ncr-7",
+    "name": "CineVista Faridabad",
+    "city": "Delhi-NCR",
+    "area": "Faridabad",
+    "address": "Faridabad, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "delhi-ncr-8",
+    "name": "PVR Icon Ghaziabad",
+    "city": "Delhi-NCR",
+    "area": "Ghaziabad",
+    "address": "Ghaziabad, Delhi-NCR",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "bengaluru-1",
+    "name": "INOX Megaplex Koramangala",
+    "city": "Bengaluru",
+    "area": "Koramangala",
+    "address": "Koramangala, Bengaluru",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "bengaluru-2",
+    "name": "CineSquare Whitefield",
+    "city": "Bengaluru",
+    "area": "Whitefield",
+    "address": "Whitefield, Bengaluru",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "bengaluru-3",
+    "name": "MovieHouse Indiranagar",
+    "city": "Bengaluru",
+    "area": "Indiranagar",
+    "address": "Indiranagar, Bengaluru",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "bengaluru-4",
+    "name": "Vista Cinemas Jayanagar",
+    "city": "Bengaluru",
+    "area": "Jayanagar",
+    "address": "Jayanagar, Bengaluru",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "bengaluru-5",
+    "name": "SilverScreen Hebbal",
+    "city": "Bengaluru",
+    "area": "Hebbal",
+    "address": "Hebbal, Bengaluru",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "bengaluru-6",
+    "name": "MetroPlex Marathahalli",
+    "city": "Bengaluru",
+    "area": "Marathahalli",
+    "address": "Marathahalli, Bengaluru",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "bengaluru-7",
+    "name": "CineVista Yeshwanthpur",
+    "city": "Bengaluru",
+    "area": "Yeshwanthpur",
+    "address": "Yeshwanthpur, Bengaluru",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "bengaluru-8",
+    "name": "PVR Icon JP Nagar",
+    "city": "Bengaluru",
+    "area": "JP Nagar",
+    "address": "JP Nagar, Bengaluru",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "hyderabad-1",
+    "name": "INOX Megaplex Banjara Hills",
+    "city": "Hyderabad",
+    "area": "Banjara Hills",
+    "address": "Banjara Hills, Hyderabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "hyderabad-2",
+    "name": "CineSquare Madhapur",
+    "city": "Hyderabad",
+    "area": "Madhapur",
+    "address": "Madhapur, Hyderabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "hyderabad-3",
+    "name": "MovieHouse Kukatpally",
+    "city": "Hyderabad",
+    "area": "Kukatpally",
+    "address": "Kukatpally, Hyderabad",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "hyderabad-4",
+    "name": "Vista Cinemas Gachibowli",
+    "city": "Hyderabad",
+    "area": "Gachibowli",
+    "address": "Gachibowli, Hyderabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "hyderabad-5",
+    "name": "SilverScreen Ameerpet",
+    "city": "Hyderabad",
+    "area": "Ameerpet",
+    "address": "Ameerpet, Hyderabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "hyderabad-6",
+    "name": "MetroPlex Secunderabad",
+    "city": "Hyderabad",
+    "area": "Secunderabad",
+    "address": "Secunderabad, Hyderabad",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "hyderabad-7",
+    "name": "CineVista Kondapur",
+    "city": "Hyderabad",
+    "area": "Kondapur",
+    "address": "Kondapur, Hyderabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "hyderabad-8",
+    "name": "PVR Icon Miyapur",
+    "city": "Hyderabad",
+    "area": "Miyapur",
+    "address": "Miyapur, Hyderabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "chandigarh-1",
+    "name": "CineSquare Sector 17",
+    "city": "Chandigarh",
+    "area": "Sector 17",
+    "address": "Sector 17, Chandigarh",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "chandigarh-2",
+    "name": "MovieHouse Elante Mall",
+    "city": "Chandigarh",
+    "area": "Elante Mall",
+    "address": "Elante Mall, Chandigarh",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "chandigarh-3",
+    "name": "Vista Cinemas Mohali",
+    "city": "Chandigarh",
+    "area": "Mohali",
+    "address": "Mohali, Chandigarh",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "chandigarh-4",
+    "name": "SilverScreen Panchkula",
+    "city": "Chandigarh",
+    "area": "Panchkula",
+    "address": "Panchkula, Chandigarh",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "chandigarh-5",
+    "name": "MetroPlex Sector 35",
+    "city": "Chandigarh",
+    "area": "Sector 35",
+    "address": "Sector 35, Chandigarh",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "chandigarh-6",
+    "name": "CineVista Zirakpur",
+    "city": "Chandigarh",
+    "area": "Zirakpur",
+    "address": "Zirakpur, Chandigarh",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "chandigarh-7",
+    "name": "PVR Icon Sector 22",
+    "city": "Chandigarh",
+    "area": "Sector 22",
+    "address": "Sector 22, Chandigarh",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "chandigarh-8",
+    "name": "INOX Megaplex Kharar",
+    "city": "Chandigarh",
+    "area": "Kharar",
+    "address": "Kharar, Chandigarh",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "ahmedabad-1",
+    "name": "INOX Megaplex Prahlad Nagar",
+    "city": "Ahmedabad",
+    "area": "Prahlad Nagar",
+    "address": "Prahlad Nagar, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "ahmedabad-2",
+    "name": "CineSquare Thaltej",
+    "city": "Ahmedabad",
+    "area": "Thaltej",
+    "address": "Thaltej, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "ahmedabad-3",
+    "name": "MovieHouse Maninagar",
+    "city": "Ahmedabad",
+    "area": "Maninagar",
+    "address": "Maninagar, Ahmedabad",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "ahmedabad-4",
+    "name": "Vista Cinemas Satellite",
+    "city": "Ahmedabad",
+    "area": "Satellite",
+    "address": "Satellite, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "ahmedabad-5",
+    "name": "SilverScreen Vastrapur",
+    "city": "Ahmedabad",
+    "area": "Vastrapur",
+    "address": "Vastrapur, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "ahmedabad-6",
+    "name": "MetroPlex Bopal",
+    "city": "Ahmedabad",
+    "area": "Bopal",
+    "address": "Bopal, Ahmedabad",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "ahmedabad-7",
+    "name": "CineVista SG Highway",
+    "city": "Ahmedabad",
+    "area": "SG Highway",
+    "address": "SG Highway, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "ahmedabad-8",
+    "name": "PVR Icon Motera",
+    "city": "Ahmedabad",
+    "area": "Motera",
+    "address": "Motera, Ahmedabad",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "pune-1",
+    "name": "Vista Cinemas Koregaon Park",
+    "city": "Pune",
+    "area": "Koregaon Park",
+    "address": "Koregaon Park, Pune",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "pune-2",
+    "name": "SilverScreen Hinjawadi",
+    "city": "Pune",
+    "area": "Hinjawadi",
+    "address": "Hinjawadi, Pune",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "pune-3",
+    "name": "MetroPlex Viman Nagar",
+    "city": "Pune",
+    "area": "Viman Nagar",
+    "address": "Viman Nagar, Pune",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "pune-4",
+    "name": "CineVista Kothrud",
+    "city": "Pune",
+    "area": "Kothrud",
+    "address": "Kothrud, Pune",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "pune-5",
+    "name": "PVR Icon Baner",
+    "city": "Pune",
+    "area": "Baner",
+    "address": "Baner, Pune",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "pune-6",
+    "name": "INOX Megaplex Hadapsar",
+    "city": "Pune",
+    "area": "Hadapsar",
+    "address": "Hadapsar, Pune",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "pune-7",
+    "name": "CineSquare Pimpri",
+    "city": "Pune",
+    "area": "Pimpri",
+    "address": "Pimpri, Pune",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "pune-8",
+    "name": "MovieHouse Wakad",
+    "city": "Pune",
+    "area": "Wakad",
+    "address": "Wakad, Pune",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "chennai-1",
+    "name": "CineVista T. Nagar",
+    "city": "Chennai",
+    "area": "T. Nagar",
+    "address": "T. Nagar, Chennai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "chennai-2",
+    "name": "PVR Icon Velachery",
+    "city": "Chennai",
+    "area": "Velachery",
+    "address": "Velachery, Chennai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "chennai-3",
+    "name": "INOX Megaplex Anna Nagar",
+    "city": "Chennai",
+    "area": "Anna Nagar",
+    "address": "Anna Nagar, Chennai",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "chennai-4",
+    "name": "CineSquare OMR",
+    "city": "Chennai",
+    "area": "OMR",
+    "address": "OMR, Chennai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "chennai-5",
+    "name": "MovieHouse Adyar",
+    "city": "Chennai",
+    "area": "Adyar",
+    "address": "Adyar, Chennai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "chennai-6",
+    "name": "Vista Cinemas Porur",
+    "city": "Chennai",
+    "area": "Porur",
+    "address": "Porur, Chennai",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "chennai-7",
+    "name": "SilverScreen Guindy",
+    "city": "Chennai",
+    "area": "Guindy",
+    "address": "Guindy, Chennai",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "chennai-8",
+    "name": "MetroPlex Tambaram",
+    "city": "Chennai",
+    "area": "Tambaram",
+    "address": "Tambaram, Chennai",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "kolkata-1",
+    "name": "CineVista Park Street",
+    "city": "Kolkata",
+    "area": "Park Street",
+    "address": "Park Street, Kolkata",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "kolkata-2",
+    "name": "PVR Icon Salt Lake",
+    "city": "Kolkata",
+    "area": "Salt Lake",
+    "address": "Salt Lake, Kolkata",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "kolkata-3",
+    "name": "INOX Megaplex New Town",
+    "city": "Kolkata",
+    "area": "New Town",
+    "address": "New Town, Kolkata",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "kolkata-4",
+    "name": "CineSquare Howrah",
+    "city": "Kolkata",
+    "area": "Howrah",
+    "address": "Howrah, Kolkata",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "kolkata-5",
+    "name": "MovieHouse Behala",
+    "city": "Kolkata",
+    "area": "Behala",
+    "address": "Behala, Kolkata",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "kolkata-6",
+    "name": "Vista Cinemas Garia",
+    "city": "Kolkata",
+    "area": "Garia",
+    "address": "Garia, Kolkata",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "kolkata-7",
+    "name": "SilverScreen Dum Dum",
+    "city": "Kolkata",
+    "area": "Dum Dum",
+    "address": "Dum Dum, Kolkata",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "kolkata-8",
+    "name": "MetroPlex Ballygunge",
+    "city": "Kolkata",
+    "area": "Ballygunge",
+    "address": "Ballygunge, Kolkata",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "kochi-1",
+    "name": "SilverScreen Edappally",
+    "city": "Kochi",
+    "area": "Edappally",
+    "address": "Edappally, Kochi",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "kochi-2",
+    "name": "MetroPlex Fort Kochi",
+    "city": "Kochi",
+    "area": "Fort Kochi",
+    "address": "Fort Kochi, Kochi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "kochi-3",
+    "name": "CineVista Kakkanad",
+    "city": "Kochi",
+    "area": "Kakkanad",
+    "address": "Kakkanad, Kochi",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "kochi-4",
+    "name": "PVR Icon Vyttila",
+    "city": "Kochi",
+    "area": "Vyttila",
+    "address": "Vyttila, Kochi",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "kochi-5",
+    "name": "INOX Megaplex Aluva",
+    "city": "Kochi",
+    "area": "Aluva",
+    "address": "Aluva, Kochi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "kochi-6",
+    "name": "CineSquare Thrippunithura",
+    "city": "Kochi",
+    "area": "Thrippunithura",
+    "address": "Thrippunithura, Kochi",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "kochi-7",
+    "name": "MovieHouse Palarivattom",
+    "city": "Kochi",
+    "area": "Palarivattom",
+    "address": "Palarivattom, Kochi",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "kochi-8",
+    "name": "Vista Cinemas Kalamassery",
+    "city": "Kochi",
+    "area": "Kalamassery",
+    "address": "Kalamassery, Kochi",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "jaipur-1",
+    "name": "MetroPlex C-Scheme",
+    "city": "Jaipur",
+    "area": "C-Scheme",
+    "address": "C-Scheme, Jaipur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "jaipur-2",
+    "name": "CineVista Malviya Nagar",
+    "city": "Jaipur",
+    "area": "Malviya Nagar",
+    "address": "Malviya Nagar, Jaipur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "jaipur-3",
+    "name": "PVR Icon Vaishali Nagar",
+    "city": "Jaipur",
+    "area": "Vaishali Nagar",
+    "address": "Vaishali Nagar, Jaipur",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "jaipur-4",
+    "name": "INOX Megaplex Mansarovar",
+    "city": "Jaipur",
+    "area": "Mansarovar",
+    "address": "Mansarovar, Jaipur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "jaipur-5",
+    "name": "CineSquare Tonk Road",
+    "city": "Jaipur",
+    "area": "Tonk Road",
+    "address": "Tonk Road, Jaipur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "jaipur-6",
+    "name": "MovieHouse Jagatpura",
+    "city": "Jaipur",
+    "area": "Jagatpura",
+    "address": "Jagatpura, Jaipur",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "jaipur-7",
+    "name": "Vista Cinemas Raja Park",
+    "city": "Jaipur",
+    "area": "Raja Park",
+    "address": "Raja Park, Jaipur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "jaipur-8",
+    "name": "SilverScreen Ajmer Road",
+    "city": "Jaipur",
+    "area": "Ajmer Road",
+    "address": "Ajmer Road, Jaipur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "lucknow-1",
+    "name": "CineVista Hazratganj",
+    "city": "Lucknow",
+    "area": "Hazratganj",
+    "address": "Hazratganj, Lucknow",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "lucknow-2",
+    "name": "PVR Icon Gomti Nagar",
+    "city": "Lucknow",
+    "area": "Gomti Nagar",
+    "address": "Gomti Nagar, Lucknow",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "lucknow-3",
+    "name": "INOX Megaplex Aliganj",
+    "city": "Lucknow",
+    "area": "Aliganj",
+    "address": "Aliganj, Lucknow",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "lucknow-4",
+    "name": "CineSquare Indira Nagar",
+    "city": "Lucknow",
+    "area": "Indira Nagar",
+    "address": "Indira Nagar, Lucknow",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "lucknow-5",
+    "name": "MovieHouse Aminabad",
+    "city": "Lucknow",
+    "area": "Aminabad",
+    "address": "Aminabad, Lucknow",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "lucknow-6",
+    "name": "Vista Cinemas Alambagh",
+    "city": "Lucknow",
+    "area": "Alambagh",
+    "address": "Alambagh, Lucknow",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "lucknow-7",
+    "name": "SilverScreen Vikas Nagar",
+    "city": "Lucknow",
+    "area": "Vikas Nagar",
+    "address": "Vikas Nagar, Lucknow",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "lucknow-8",
+    "name": "MetroPlex Jankipuram",
+    "city": "Lucknow",
+    "area": "Jankipuram",
+    "address": "Jankipuram, Lucknow",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "indore-1",
+    "name": "MetroPlex Vijay Nagar",
+    "city": "Indore",
+    "area": "Vijay Nagar",
+    "address": "Vijay Nagar, Indore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "indore-2",
+    "name": "CineVista Palasia",
+    "city": "Indore",
+    "area": "Palasia",
+    "address": "Palasia, Indore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "indore-3",
+    "name": "PVR Icon Rajendra Nagar",
+    "city": "Indore",
+    "area": "Rajendra Nagar",
+    "address": "Rajendra Nagar, Indore",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "indore-4",
+    "name": "INOX Megaplex Bhawarkua",
+    "city": "Indore",
+    "area": "Bhawarkua",
+    "address": "Bhawarkua, Indore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "indore-5",
+    "name": "CineSquare Sudama Nagar",
+    "city": "Indore",
+    "area": "Sudama Nagar",
+    "address": "Sudama Nagar, Indore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "indore-6",
+    "name": "MovieHouse Rau",
+    "city": "Indore",
+    "area": "Rau",
+    "address": "Rau, Indore",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "indore-7",
+    "name": "Vista Cinemas Scheme 54",
+    "city": "Indore",
+    "area": "Scheme 54",
+    "address": "Scheme 54, Indore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "indore-8",
+    "name": "SilverScreen AB Road",
+    "city": "Indore",
+    "area": "AB Road",
+    "address": "AB Road, Indore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "surat-1",
+    "name": "SilverScreen Adajan",
+    "city": "Surat",
+    "area": "Adajan",
+    "address": "Adajan, Surat",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "surat-2",
+    "name": "MetroPlex Vesu",
+    "city": "Surat",
+    "area": "Vesu",
+    "address": "Vesu, Surat",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "surat-3",
+    "name": "CineVista Piplod",
+    "city": "Surat",
+    "area": "Piplod",
+    "address": "Piplod, Surat",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "surat-4",
+    "name": "PVR Icon Varachha",
+    "city": "Surat",
+    "area": "Varachha",
+    "address": "Varachha, Surat",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "surat-5",
+    "name": "INOX Megaplex Athwa",
+    "city": "Surat",
+    "area": "Athwa",
+    "address": "Athwa, Surat",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "surat-6",
+    "name": "CineSquare Pal",
+    "city": "Surat",
+    "area": "Pal",
+    "address": "Pal, Surat",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "surat-7",
+    "name": "MovieHouse Udhna",
+    "city": "Surat",
+    "area": "Udhna",
+    "address": "Udhna, Surat",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "surat-8",
+    "name": "Vista Cinemas Katargam",
+    "city": "Surat",
+    "area": "Katargam",
+    "address": "Katargam, Surat",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "bhopal-1",
+    "name": "MetroPlex MP Nagar",
+    "city": "Bhopal",
+    "area": "MP Nagar",
+    "address": "MP Nagar, Bhopal",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "bhopal-2",
+    "name": "CineVista Arera Colony",
+    "city": "Bhopal",
+    "area": "Arera Colony",
+    "address": "Arera Colony, Bhopal",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "bhopal-3",
+    "name": "PVR Icon Kolar Road",
+    "city": "Bhopal",
+    "area": "Kolar Road",
+    "address": "Kolar Road, Bhopal",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "bhopal-4",
+    "name": "INOX Megaplex Habibganj",
+    "city": "Bhopal",
+    "area": "Habibganj",
+    "address": "Habibganj, Bhopal",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "bhopal-5",
+    "name": "CineSquare Bairagarh",
+    "city": "Bhopal",
+    "area": "Bairagarh",
+    "address": "Bairagarh, Bhopal",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "bhopal-6",
+    "name": "MovieHouse TT Nagar",
+    "city": "Bhopal",
+    "area": "TT Nagar",
+    "address": "TT Nagar, Bhopal",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "bhopal-7",
+    "name": "Vista Cinemas Ayodhya Bypass",
+    "city": "Bhopal",
+    "area": "Ayodhya Bypass",
+    "address": "Ayodhya Bypass, Bhopal",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "bhopal-8",
+    "name": "SilverScreen Bawadia Kalan",
+    "city": "Bhopal",
+    "area": "Bawadia Kalan",
+    "address": "Bawadia Kalan, Bhopal",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "nagpur-1",
+    "name": "MetroPlex Dharampeth",
+    "city": "Nagpur",
+    "area": "Dharampeth",
+    "address": "Dharampeth, Nagpur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "nagpur-2",
+    "name": "CineVista Sitabuldi",
+    "city": "Nagpur",
+    "area": "Sitabuldi",
+    "address": "Sitabuldi, Nagpur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "nagpur-3",
+    "name": "PVR Icon Manish Nagar",
+    "city": "Nagpur",
+    "area": "Manish Nagar",
+    "address": "Manish Nagar, Nagpur",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "nagpur-4",
+    "name": "INOX Megaplex Sadar",
+    "city": "Nagpur",
+    "area": "Sadar",
+    "address": "Sadar, Nagpur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "nagpur-5",
+    "name": "CineSquare Wardha Road",
+    "city": "Nagpur",
+    "area": "Wardha Road",
+    "address": "Wardha Road, Nagpur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "nagpur-6",
+    "name": "MovieHouse Nandanvan",
+    "city": "Nagpur",
+    "area": "Nandanvan",
+    "address": "Nandanvan, Nagpur",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "nagpur-7",
+    "name": "Vista Cinemas Hingna",
+    "city": "Nagpur",
+    "area": "Hingna",
+    "address": "Hingna, Nagpur",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "nagpur-8",
+    "name": "SilverScreen Pratap Nagar",
+    "city": "Nagpur",
+    "area": "Pratap Nagar",
+    "address": "Pratap Nagar, Nagpur",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "coimbatore-1",
+    "name": "CineSquare RS Puram",
+    "city": "Coimbatore",
+    "area": "RS Puram",
+    "address": "RS Puram, Coimbatore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "coimbatore-2",
+    "name": "MovieHouse Peelamedu",
+    "city": "Coimbatore",
+    "area": "Peelamedu",
+    "address": "Peelamedu, Coimbatore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "coimbatore-3",
+    "name": "Vista Cinemas Gandhipuram",
+    "city": "Coimbatore",
+    "area": "Gandhipuram",
+    "address": "Gandhipuram, Coimbatore",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "coimbatore-4",
+    "name": "SilverScreen Saibaba Colony",
+    "city": "Coimbatore",
+    "area": "Saibaba Colony",
+    "address": "Saibaba Colony, Coimbatore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "coimbatore-5",
+    "name": "MetroPlex Singanallur",
+    "city": "Coimbatore",
+    "area": "Singanallur",
+    "address": "Singanallur, Coimbatore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "coimbatore-6",
+    "name": "CineVista Race Course",
+    "city": "Coimbatore",
+    "area": "Race Course",
+    "address": "Race Course, Coimbatore",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "coimbatore-7",
+    "name": "PVR Icon Avinashi Road",
+    "city": "Coimbatore",
+    "area": "Avinashi Road",
+    "address": "Avinashi Road, Coimbatore",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "coimbatore-8",
+    "name": "INOX Megaplex Saravanampatti",
+    "city": "Coimbatore",
+    "area": "Saravanampatti",
+    "address": "Saravanampatti, Coimbatore",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "visakhapatnam-1",
+    "name": "SilverScreen MVP Colony",
+    "city": "Visakhapatnam",
+    "area": "MVP Colony",
+    "address": "MVP Colony, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "visakhapatnam-2",
+    "name": "MetroPlex Dwaraka Nagar",
+    "city": "Visakhapatnam",
+    "area": "Dwaraka Nagar",
+    "address": "Dwaraka Nagar, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "visakhapatnam-3",
+    "name": "CineVista Gajuwaka",
+    "city": "Visakhapatnam",
+    "area": "Gajuwaka",
+    "address": "Gajuwaka, Visakhapatnam",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "visakhapatnam-4",
+    "name": "PVR Icon Madhurawada",
+    "city": "Visakhapatnam",
+    "area": "Madhurawada",
+    "address": "Madhurawada, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "visakhapatnam-5",
+    "name": "INOX Megaplex Seethammadhara",
+    "city": "Visakhapatnam",
+    "area": "Seethammadhara",
+    "address": "Seethammadhara, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "visakhapatnam-6",
+    "name": "CineSquare Jagadamba",
+    "city": "Visakhapatnam",
+    "area": "Jagadamba",
+    "address": "Jagadamba, Visakhapatnam",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "visakhapatnam-7",
+    "name": "MovieHouse Rushikonda",
+    "city": "Visakhapatnam",
+    "area": "Rushikonda",
+    "address": "Rushikonda, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "visakhapatnam-8",
+    "name": "Vista Cinemas NAD",
+    "city": "Visakhapatnam",
+    "area": "NAD",
+    "address": "NAD, Visakhapatnam",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "patna-1",
+    "name": "SilverScreen Boring Road",
+    "city": "Patna",
+    "area": "Boring Road",
+    "address": "Boring Road, Patna",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "patna-2",
+    "name": "MetroPlex Gandhi Maidan",
+    "city": "Patna",
+    "area": "Gandhi Maidan",
+    "address": "Gandhi Maidan, Patna",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "patna-3",
+    "name": "CineVista Kankarbagh",
+    "city": "Patna",
+    "area": "Kankarbagh",
+    "address": "Kankarbagh, Patna",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "patna-4",
+    "name": "PVR Icon Danapur",
+    "city": "Patna",
+    "area": "Danapur",
+    "address": "Danapur, Patna",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "patna-5",
+    "name": "INOX Megaplex Patliputra",
+    "city": "Patna",
+    "area": "Patliputra",
+    "address": "Patliputra, Patna",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "patna-6",
+    "name": "CineSquare Fraser Road",
+    "city": "Patna",
+    "area": "Fraser Road",
+    "address": "Fraser Road, Patna",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "patna-7",
+    "name": "MovieHouse Bailey Road",
+    "city": "Patna",
+    "area": "Bailey Road",
+    "address": "Bailey Road, Patna",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "patna-8",
+    "name": "Vista Cinemas Phulwari",
+    "city": "Patna",
+    "area": "Phulwari",
+    "address": "Phulwari, Patna",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  },
+  {
+    "id": "vadodara-1",
+    "name": "PVR Icon Alkapuri",
+    "city": "Vadodara",
+    "area": "Alkapuri",
+    "address": "Alkapuri, Vadodara",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "1.2 km"
+  },
+  {
+    "id": "vadodara-2",
+    "name": "INOX Megaplex Akota",
+    "city": "Vadodara",
+    "area": "Akota",
+    "address": "Akota, Vadodara",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "2.9 km"
+  },
+  {
+    "id": "vadodara-3",
+    "name": "CineSquare Manjalpur",
+    "city": "Vadodara",
+    "area": "Manjalpur",
+    "address": "Manjalpur, Vadodara",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "4.6 km"
+  },
+  {
+    "id": "vadodara-4",
+    "name": "MovieHouse Gotri",
+    "city": "Vadodara",
+    "area": "Gotri",
+    "address": "Gotri, Vadodara",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "6.3 km"
+  },
+  {
+    "id": "vadodara-5",
+    "name": "Vista Cinemas Fatehgunj",
+    "city": "Vadodara",
+    "area": "Fatehgunj",
+    "address": "Fatehgunj, Vadodara",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "8.0 km"
+  },
+  {
+    "id": "vadodara-6",
+    "name": "SilverScreen Karelibaug",
+    "city": "Vadodara",
+    "area": "Karelibaug",
+    "address": "Karelibaug, Vadodara",
+    "formats": [
+      "2D",
+      "4DX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "1.7 km"
+  },
+  {
+    "id": "vadodara-7",
+    "name": "MetroPlex Waghodia Road",
+    "city": "Vadodara",
+    "area": "Waghodia Road",
+    "address": "Waghodia Road, Vadodara",
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Parking"
+    ],
+    "distance": "3.4 km"
+  },
+  {
+    "id": "vadodara-8",
+    "name": "CineVista Vasna",
+    "city": "Vadodara",
+    "area": "Vasna",
+    "address": "Vasna, Vadodara",
+    "formats": [
+      "2D",
+      "3D"
+    ],
+    "facilities": [
+      "M-Ticket",
+      "Food & Beverage"
+    ],
+    "distance": "5.1 km"
+  }
+]

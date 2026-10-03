@@ -1,0 +1,7 @@
+[
+  {"id":"northstar-movies","partner":"NORTHSTAR BANK","category":"Movies","title":"Make movie night a little sweeter.","description":"Save ₹150 on your next movie booking with an eligible Northstar card.","code":"NORTHSTAR150","badge":"₹150 OFF","tone":"rose","terms":"Valid on movie bookings above ₹299. One use per account. Terms apply."},
+  {"id":"wave-events","partner":"WAVE PAY","category":"Events","title":"More live. Less spend.","description":"Get 10% back when you pay for live event tickets with Wave Pay.","code":"WAVE10","badge":"10% BACK","tone":"indigo","terms":"Valid on selected events up to ₹200 cashback. Terms apply."},
+  {"id":"first-booking","partner":"SHOWTIME","category":"Movies","title":"Your first booking comes with a treat.","description":"Take ₹50 off your first movie booking on ShowTime.","code":"FIRST50","badge":"₹50 OFF","tone":"teal","terms":"Valid on your first movie order above ₹249. Terms apply."},
+  {"id":"cloud-perks","partner":"CLOUD NINE","category":"Experiences","title":"A little extra for your next outing.","description":"Cloud Nine members get 15% off selected experiences.","code":"CLOUDPERKS","badge":"15% OFF","tone":"plum","terms":"Valid on selected events and activities. Discount capped at ₹250."},
+  {"id":"weekend-movies","partner":"SHOWTIME","category":"Movies","title":"A weekend well spent.","description":"Enjoy 10% off a movie booking when you plan ahead.","code":"SHOWTIME10","badge":"10% OFF","tone":"amber","terms":"Valid on movie bookings. Discount capped at ₹300. Terms apply."}
+]
